@@ -1,0 +1,30 @@
+text: JIM SAW ME IN A BARBER SHOP	pattern: BARBER
+bmt Table: {A=4, B=2, R=3, E=1, *=6, }
+Found match for the pattern: BARBER at pos: 16
+
+text: BRIAN BROUGHT BANANAS HOME	pattern: BANANA
+bmt Table: {A=2, B=5, *=6, N=1, }
+Found match for the pattern: BANANA at pos: 14
+
+text: TRUST HARD TOOTH BRUSHES	pattern: TOOTH
+bmt Table: {T=1, H=5, *=5, O=2, }
+Found match for the pattern: TOOTH at pos: 11
+
+text: BESS KNEW ABOUT BAOBABS	pattern: BAOBAB
+bmt Table: {A=1, B=2, *=6, O=3, }
+Found match for the pattern: BAOBAB at pos: 16
+
+text: JIMY_HAILED_THE_LEADER_TO_STOP	pattern: LEADER
+bmt Table: {A=3, R=6, D=2, E=1, *=6, L=5, }
+Found match for the pattern: LEADER at pos: 16
+
+text: ABABABCCA	pattern: ABABC
+bmt Table: {A=2, B=1, C=5, *=5, }
+Found match for the pattern: ABABC at pos: 2
+
+text: das	pattern: asfrwyt
+Pattern is longer than the text.
+
+text: Jacob Richardson	pattern: Raj
+bmt Table: {a=1, R=2, j=3, *=3, }
+The pattern does not exist in the text.
